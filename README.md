@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>RESUME WEBSITE</title>
+  
 </head>
 
 <body>
