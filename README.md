@@ -25,7 +25,7 @@
      <p> 2018<br>Intermediate<br>98.6</p></li>
      <li><h4> Nagarjuna High School</h4>
      <p> 2016<br>SSC<br>10</p></li>
-      </div>
+      
 
    <h3 style="background: gainsboro ; margin-left: 10px;"> SKILLS </h3>
    <p> <br> </p>
@@ -45,8 +45,4 @@
   </ul><p> <br> </p>
 
   <h3 style="background: gainsboro ; margin-left: 10px;"> PERSONAL DETAILS </h3><p> <br> </p> <p>Date Of Birth : 01/01/2001<br>Gmail: atkuriboomika@gmail.com</p> 
-</div>
 
-</body>
-
-</html>
